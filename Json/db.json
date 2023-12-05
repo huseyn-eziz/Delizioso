@@ -1,0 +1,98 @@
+{
+    "cards":[
+        { 
+            "id":1,
+            "title":"Spaghetti",
+            "description":"Lorem ipsum dolar sit amet",
+            "img": "",
+            "price": 12,
+            "category": "Yemekler"
+        
+        },
+        { 
+            "id":2,
+            "title":"Spaghetti2",
+            "description":"Lorem ipsum dolar sit amet",
+            "img": "",
+            "price": "12",
+            "category": "Yemekler"
+        
+        },
+        { 
+            "id":3,
+            "title":"Spaghetti3",
+            "description":"Lorem ipsum dolar sit amet",
+            "img": "",
+            "price": "12",
+            "category": "Yemekler"
+        
+        },
+        { 
+            "id":4,
+            "title":"Spaghetti4",
+            "description":"Lorem ipsum dolar sit amet",
+            "img": "",
+            "price": "12",
+            "category": "Yemekler"
+        
+        },
+        { 
+            "id":5,
+            "title":"Spaghetti5",
+            "description":"Lorem ipsum dolar sit amet",
+            "img": "",
+            "price": "12",
+            "category": "Yemekler"
+        
+        },
+        { 
+            "id":6,
+            "title":"Spaghetti6",
+            "description":"Lorem ipsum dolar sit amet",
+            "img": "",
+            "price": "12",
+            "category": "Yemekler"
+
+        
+        },
+        { 
+            "id":7,
+            "title":"Spaghetti7",
+            "description":"Lorem ipsum dolar sit amet",
+            "img": "",
+            "price": "12",
+            "category": "Yemekler"
+        
+        },
+        { 
+            "id":8,
+            "title":"Spaghetti8",
+            "description":"Lorem ipsum dolar sit amet",
+            "img": "",
+            "price": "12",
+            "category": "Yemekler"
+
+        
+        },
+        { 
+            "id":9,
+            "title":"Spaghetti9",
+            "description":"Lorem ipsum dolar sit amet",
+            "img": "",
+            "price": "12",
+            "category": "Yemekler"
+        
+        },
+        { 
+            "id":10,
+            "title":"Spaghetti10",
+            "description":"Lorem ipsum dolar sit amet",
+            "img": "",
+            "price": "12",
+            "category": "Yemekler"
+
+        
+        }
+
+    ]
+}
